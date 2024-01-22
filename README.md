@@ -14,4 +14,4 @@ The food at the **restaurant** was **good** and the waiters were polite.The pric
 * Movie theatre
 * Park
 
-[My media link](MyMedia.md)
+[My Media link](MyMedia.md)
