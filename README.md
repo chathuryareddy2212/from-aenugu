@@ -12,4 +12,6 @@ The food at the **restaurant** was **good** and the waiters were polite.
 
 * Shopping mall
 * Movie theatre
-* Park 
+* Park
+
+[My media link](MyMedia.md)
