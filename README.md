@@ -2,7 +2,7 @@
 Using repo for my web apps assignment 2
 # Chathurya Reddy
 ## SVM grand restaurant
-The food at the **restaurant** was **good** and the waiters were polite.
+The food at the **restaurant** was **good** and the waiters were polite.The prices may be expensive but worth it! Overall, its a fantastic place for memorable dinner.Thus,I would not hesitate recommending this restaurant.
 
 ---
 # Favorite dishes
