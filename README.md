@@ -9,3 +9,7 @@ The food at the **restaurant** was **good** and the waiters were polite.
 1. Biryani
 2. Roti
 3. Icecream
+
+* Shopping mall
+* Movie theatre
+* Park 
