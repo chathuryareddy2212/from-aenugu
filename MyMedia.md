@@ -19,3 +19,29 @@ There are 4 different books in the tables.The first column is about the name of 
 > You must be the change you wish to see in the world. - *Mahatma Gandhi*
 
 
+---
+# Code Fencing
+How to find intersection using Dart source code
+
+```
+main() {
+  final lists = [
+    [1, 2, 3, 55, 7, 99, 21],
+    [1, 4, 7, 65, 99, 20, 21],
+    [0, 2, 6, 7, 21, 99, 26]
+  ];
+
+  final commonElements =
+      lists.fold(
+        lists.first.toSet(), 
+        (a, b) => a.intersection(b.toSet()));
+
+  print(commonElements);
+}
+```
+[Snippet link](https://code.pieces.app/collections/dart)
+
+
+
+
+
