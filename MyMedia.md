@@ -15,7 +15,7 @@ There are 4 different books in the tables.The first column is about the name of 
 
 ---
 # Favorite Quotes
-> Genius is one percent inspiration and ninety -nine percent perspiration. > *Thomas Edison*
-> You must be the change you wish to see in the world. > *Mahatma Gandhi*
+> Genius is one percent inspiration and ninety -nine percent perspiration. - *Thomas Edison*<br>
+> You must be the change you wish to see in the world. - *Mahatma Gandhi*
 
 
